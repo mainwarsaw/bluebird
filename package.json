@@ -48,7 +48,7 @@
     "cli-table": "~0.3.1",
     "co": "^4.2.0",
     "cross-spawn": "^0.2.3",
-    "glob": "^4.3.2",
+    "glob": "^7.1.6",
     "grunt-saucelabs": "~8.4.1",
     "highland": "^2.3.0",
     "istanbul": "^0.3.5",
